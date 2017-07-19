@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
+<?php require 'layouts/head-content.php';?>
+<di>
+<h1>Hello, </h1>
+</di>
 
-  </body>
-</html>
+
+
+
+
+<?php require 'layouts/foot-content.php';?>
